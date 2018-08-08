@@ -1,2 +1,4 @@
-# pwa-test
-Progressive Web Applications
+# habr-pwa
+Примеры PWA для материалов на habr.com
+<br />
+Ссылка:
